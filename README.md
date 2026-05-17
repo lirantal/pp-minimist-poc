@@ -164,6 +164,10 @@ Furthermore, [CVSS 3.1 specficaition update](https://www.first.org/cvss/v3.1/use
 
 > When scoring the impact of a vulnerability in a library, independent of any adopting program or implementation, the analyst will often be unable to take into account the ways in which the library might be used. While specific products using the library should generate CVSS scores specific to how they use the library, scoring the library itself requires assumptions to be made. The analyst should score for the reasonable worst-case implementation scenario. When possible, the CVSS information should detail these assumptions.
 
+## Contributing
+
+Please consult [CONTRIBUTING](./CONTRIBUTING.md) for guidelines on contributing to this project.
+
 # Author
 
 Liran Tal <liran.tal@gmail.com>
