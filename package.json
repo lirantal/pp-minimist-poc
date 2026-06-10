@@ -1,4 +1,8 @@
 {
+  "publishConfig": {
+    "provenance": true,
+    "access": "public"
+  },
   "name": "pp-minimist-poc",
   "version": "1.0.0",
   "description": "",
