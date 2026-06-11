@@ -1,8 +1,4 @@
 {
-  "publishConfig": {
-    "provenance": true,
-    "access": "public"
-  },
   "name": "pp-minimist-poc",
   "version": "1.0.0",
   "description": "",
@@ -18,5 +14,9 @@
   },
   "devDependencies": {
     "pkg": "^4.4.5"
+  },
+  "publishConfig": {
+    "provenance": true,
+    "access": "public"
   }
 }
